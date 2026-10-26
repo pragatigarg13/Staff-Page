@@ -20,12 +20,12 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCuPFnpRCf3ENFxaB0P4Bhwq5_F8_O29U",
-    authDomain: "staff-app-34df2.firebaseapp.com",
-    projectId: "staff-app-34df2",
-    storageBucket: "staff-app-34df2.firebasestorage.app",
-    messagingSenderId: "751652761008",
-    appId: "1:751652761008:web:e540cafa77b84452543a75"
+  apiKey: "AIzaSyCu5PFnpRCf3ENFxaB0P4Bhwq5_F8_O29U",
+  authDomain: "staff-app-34df2.firebaseapp.com",
+  projectId: "staff-app-34df2",
+  storageBucket: "staff-app-34df2.firebasestorage.app",
+  messagingSenderId: "751652761008",
+  appId: "1:751652761008:web:e540cafa77b84452543a75"
 };
 
 const app = initializeApp(firebaseConfig);
